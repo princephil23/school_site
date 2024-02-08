@@ -20,7 +20,7 @@
     else{
        
        
-             echo"<span class = \"alert alert-success\">Incorect Student Id or Student Pin</span>";
+             echo"<span class = \"alert alert-danger\">Incorect Student Id or Student Pin</span>";
             
     }
        

@@ -30,7 +30,7 @@
         }
         else{
              echo"<span class =\"alert alert-danger \">Failed to sign User up</span>";
-             //console.log('Failed to sign User up');
+             console.log('Failed to sign User up');
         }
     } 
 ?>
