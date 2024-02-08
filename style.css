@@ -1,0 +1,18 @@
+.c-item {
+  height: 535px;
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+.ses{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+/*   @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap'); ;*/
+}
+./*card-img{
+  height: 50px;
+  
+}*/
