@@ -59,7 +59,6 @@
             <div id = "signupbtn" class=" col-4 btn btn-lg btn-primary btn-block">Sign UP</div> 
             <div class="col-4"></div>
         </div>
-   
     </form>
     <h3 id = "msg" class = "m-5"></h3>
 
